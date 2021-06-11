@@ -1,2 +1,2 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungrytech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/hungrytech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungrytech)](https://github.com/hungrytech)
