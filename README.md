@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요 👋 배고픈개발자 입니다.</h1>
-<h3 align="center">배움에 항상 배고파있습니다.</h3>
+<h3 align="center">좋은 코드에 대해 고민하고 배움에 항상 배고파있습니다.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungrytech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
